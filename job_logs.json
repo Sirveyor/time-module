@@ -1,0 +1,74 @@
+{
+    "test": {
+        "description": "testing batch file",
+        "start": "2024-03-21 07:48:18.903794",
+        "end": "2024-03-21 07:48:19.483752",
+        "total": [
+            0.00016,
+            0.031
+        ]
+    },
+    "test2": {
+        "description": "test for outside call did not work now testing core file.",
+        "start": "2024-03-21 08:27:09.223557",
+        "end": "2024-03-21 08:27:09.936017",
+        "total": [
+            0.0002,
+            0.039
+        ]
+    },
+    "test3": {
+        "description": "call testing",
+        "start": "2024-03-21 07:58:38.617126",
+        "end": "2024-03-21 07:58:39.864581",
+        "total": [
+            0.00035,
+            0.068
+        ]
+    },
+    "test4": {
+        "description": "testing again",
+        "start": "2024-03-21 07:59:11.952834",
+        "end": "2024-03-21 07:59:13.082182",
+        "total": [
+            0.00031,
+            0.061
+        ]
+    },
+    "test1": {
+        "description": "testing by calling from a seperate python file",
+        "start": "2024-03-21 08:24:54.831675",
+        "end": "2024-03-21 08:24:55.908019",
+        "total": [
+            0.0003,
+            0.058
+        ]
+    },
+    "test5": {
+        "description": "testing outside call again",
+        "start": "2024-03-21 08:32:45.042320",
+        "end": "2024-03-21 08:32:45.841217",
+        "total": [
+            0.00022,
+            0.043
+        ]
+    },
+    "text6": {
+        "description": "testing print opptions",
+        "start": "2024-03-21 08:35:33.718419",
+        "end": "2024-03-21 08:35:34.930020",
+        "total": [
+            0.00034,
+            0.066
+        ]
+    },
+    "25200": {
+        "description": "worked boundary",
+        "start": "2024-03-22 10:28:09.499522",
+        "end": "2024-03-22 10:28:13.192698",
+        "total": [
+            0.00103,
+            0.2
+        ]
+    }
+}
