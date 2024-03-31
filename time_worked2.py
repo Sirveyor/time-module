@@ -45,6 +45,7 @@ def save_to_file():
 
     with open("job_logs.json", 'w', encoding='utf-8') as f:
         json.dump(existing_data, f, indent=4)
+        print("Saving file to job_logs.json. ...")
 
 
 def hours_worked(start, end):
